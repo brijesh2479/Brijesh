@@ -1,0 +1,38 @@
+.page.svelte-14mn93k.svelte-14mn93k {
+    width: 90%;
+    max-width: 994px;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center
+}
+
+.reason.svelte-14mn93k.svelte-14mn93k {
+    font-family: var(--fonts-heading);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    --current-line-height: 24px;
+    margin: 0 0 21px
+}
+
+@media screen and (min-width: 744px) {
+    .reason.svelte-14mn93k.svelte-14mn93k {
+        font-size: 26px;
+        line-height: 32px;
+        --current-line-height: 32px
+    }
+}
+
+ul.svelte-14mn93k.svelte-14mn93k {
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+ul.svelte-14mn93k li.svelte-14mn93k {
+    margin: 0;
+    padding: 0
+}
